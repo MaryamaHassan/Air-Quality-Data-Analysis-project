@@ -1,5 +1,5 @@
 
-![Screenshot 2025-01-02 185203](https://github.com/user-attachments/assets/33a1fdd0-3ced-43cc-804c-421173b34d69)
+<img src="https://github.com/user-attachments/assets/33a1fdd0-3ced-43cc-804c-421173b34d69" width="600" height="400" />
 
 *Air Quality Analysis: Data Cleaning, PM2.5 Forecasting, and PACF Insights*
 ---
@@ -34,7 +34,7 @@ Analysis of average PM2.5 concentration (µg/m³) from 2010 to 2018 revealed:
 - **2015 to 2016**: A spike (~23.8 µg/m³), driven by urbanisation and seasonal pollution.  
 - **2017 to 2018**: A sharp decline (~22.2 µg/m³), reflecting global environmental efforts.  
 ---
-### Disparities in Regional Trends 
+#### Disparities in Regional Trends 
 
 Even though the overall global trend shows a decrease in PM2.5 levels, certain continents and countries have experienced rising trends during the same period. These disparities are largely driven by rapid industrialisation, urbanisation, and population growth in specific regions, particularly in developing countries. For example: 
 
